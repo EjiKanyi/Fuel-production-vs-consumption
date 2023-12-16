@@ -2,12 +2,13 @@
 
 
 ## Objectives
-To assess the sustainability and balance of fuel production and consumption within a country.
 
-To evaluate the economical impact of fuel production.
+1. To assess the sustainability and balance of fuel production and consumption within a country.
 
-To compare the price of fuel production and consumption.
+2. To evaluate the economical impact of fuel production.
 
-To identify trends and patterns in per capita enery production and consumption.
+3. To compare the price of fuel production and consumption.
 
-To evaluate the average production and consumption of fuel throughout the years.
+4. To identify trends and patterns in per capita enery production and consumption.
+
+5. To evaluate the average production and consumption of fuel throughout the years.
